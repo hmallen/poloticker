@@ -4,10 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-poloniex = "*"
 slackclient = "*"
 pymongo = "*"
-websocket-client = "*"
+poloniex = "*"
 
 [dev-packages]
 
