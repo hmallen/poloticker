@@ -1,1 +1,1 @@
-from . import poloticker
+from .poloticker import TickerGenerator, Ticker
