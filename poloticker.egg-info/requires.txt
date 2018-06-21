@@ -1,0 +1,4 @@
+poloniex
+pymongo
+slackclient
+websocket-client
