@@ -15,7 +15,7 @@ setup(
     install_requires=['poloniex',
                       'pymongo',
                       'slackclient',
-                      'websocket'],
+                      'websocket-client'],
     description='MongoDB-based OHLC ticker for Poloniex markets with Slack integration, using websockets as data feed.',
     long_description=long_description,
     long_description_content_type='text/markdown',
