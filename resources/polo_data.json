@@ -1,0 +1,128 @@
+{
+    "buy": {
+        "amountUnfilled": 0.0,
+        "orderNumber": 12345678901,
+        "resultingTrades": [
+            {
+                "amount": 1.0,
+                "date": "2018-06-18 01:00:00",
+                "rate": 3.53e-05,
+                "total": 3.53e-05,
+                "tradeID": 12345678,
+                "type": "buy"
+            },
+            {
+                "amount": 1.0,
+                "date": "2018-06-18 01:00:00",
+                "rate": 3.53e-05,
+                "total": 3.53e-05,
+                "tradeID": 12345678,
+                "type": "buy"
+            }
+        ]
+    },
+    "cancel": {
+        "amount": 1.0,
+        "message": "Order #12345678901 cancelled.",
+        "success": 1
+    },
+    "open_orders": [
+        {
+            "amount": 5.0,
+            "date": "2018-06-20 21:15:13",
+            "margin": 0,
+            "orderNumber": 79845172991,
+            "rate": 3.5e-05,
+            "startingAmount": 5.0,
+            "total": 0.000175,
+            "type": "sell"
+        },
+        {
+            "amount": 6.0,
+            "date": "2018-06-20 21:15:24",
+            "margin": 0,
+            "orderNumber": 79845183980,
+            "rate": 3.55e-05,
+            "startingAmount": 6.0,
+            "total": 0.000213,
+            "type": "sell"
+        },
+        {
+            "amount": 5.0,
+            "date": "2018-06-20 21:15:33",
+            "margin": 0,
+            "orderNumber": 79845200963,
+            "rate": 3.65e-05,
+            "startingAmount": 5.0,
+            "total": 0.0001825,
+            "type": "sell"
+        }
+    ],
+    "order_trades": [
+        {
+            "amount": 5.0,
+            "currencyPair": "BTC_STR",
+            "date": "2018-06-20 01:07:29",
+            "fee": 0.002,
+            "globalTradeID": 123456789,
+            "rate": 3.451e-05,
+            "total": 0.00017255,
+            "tradeID": 12345678,
+            "type": "sell"
+        }
+    ],
+    "sell": {
+        "orderNumber": 12345678901,
+        "resultingTrades": []
+    },
+    "trade_history": [
+        {
+            "amount": 369.22965117,
+            "category": "marginTrade",
+            "date": "2018-06-20 03:42:42",
+            "fee": 0.001,
+            "globalTradeID": 379214998,
+            "orderNumber": 79777549682,
+            "rate": 3.44e-05,
+            "total": 0.0127015,
+            "tradeID": 12744848,
+            "type": "buy"
+        },
+        {
+            "amount": 229.57034883,
+            "category": "marginTrade",
+            "date": "2018-06-20 03:30:14",
+            "fee": 0.001,
+            "globalTradeID": 379214299,
+            "orderNumber": 79777549682,
+            "rate": 3.44e-05,
+            "total": 0.00789721,
+            "tradeID": 12744809,
+            "type": "buy"
+        },
+        {
+            "amount": 598.8,
+            "category": "marginTrade",
+            "date": "2018-06-20 01:24:28",
+            "fee": 0.001,
+            "globalTradeID": 379202676,
+            "orderNumber": 79616566826,
+            "rate": 3.41e-05,
+            "total": 0.02041908,
+            "tradeID": 12744418,
+            "type": "buy"
+        },
+        {
+            "amount": 5.0,
+            "category": "exchange",
+            "date": "2018-06-20 01:07:29",
+            "fee": 0.002,
+            "globalTradeID": 379199202,
+            "orderNumber": 79768111130,
+            "rate": 3.451e-05,
+            "total": 0.00017255,
+            "tradeID": 12744197,
+            "type": "sell"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+WEBSOCKET 1003
+
+INFO:__main__:message: [1010]
+INFO:__main__:message: [1010]
+INFO:__main__:message: [1010]
+INFO:__main__:message: [1003, None, ['2018-06-18 09:47', 5417, {'BTC': '2059.750', 'ETH': '290.614', 'XMR': '169.871', 'USDT': '6884140.342'}]]
+INFO:__main__:message: [1010]
+INFO:__main__:message: [1010]

@@ -1,0 +1,37 @@
+{
+  "market": "BTC_STR",
+  "time": xyz,
+  "buy": {
+    "target": 0.00003550,
+    "max": 123,
+    "spend": 123,
+    "spend_actual": 123,
+    "price_actual": 123,
+    "amount_actual": 123,
+    "abort_time": xyz,
+    "complete": True,
+    "orders": []
+  },
+  "sell": {
+    "target": 0.00003603,
+    "stop": 0.00003515,
+    "actual": None,
+    "complete": False,
+    "orders": []
+  },
+  "fees": {
+    "maker": 0.001,
+    "taker": 0.002
+  },
+  "parameters": {
+    "market": "BTC_STR",
+    "buy_target": 0.00003550,
+    "profit_level": 0.015,
+    "stop_level": 0.01,
+    "stop_price": None,
+    "spend_proportion": 0.01,
+    "price_tolerance": 0.001,
+    "entry_timeout": 5,
+    "taker_fee_ok": True
+  }
+}

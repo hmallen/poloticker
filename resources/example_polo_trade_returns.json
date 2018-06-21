@@ -1,0 +1,11 @@
+// polo.buy(currencyPair='BTC_STR', rate=rate, amount=28, immediateOrCancel=1)
+
+{'orderNumber': 79576004429, 
+	'resultingTrades': [
+		{'amount': 14.16430594, 'date': '2018-06-18 01:00:40', 'rate': 3.53e-05, 'total': 0.00049999, 'tradeID': 12736356, 'type': 'buy'}, 
+		{'amount': 13.83569406, 'date': '2018-06-18 01:00:40', 'rate': 3.53e-05, 'total': 0.0004884, 'tradeID': 12736357, 'type': 'buy'}
+	], 'amountUnfilled': 0.0}
+
+
+// polo.cancelOrder(79604529875)
+{'success': 1, 'amount': 20.0, 'message': 'Order #79604529875 canceled.'}
