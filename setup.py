@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh:
 
 setup(
     name='poloticker',
-    version='0.1dev',
+    version='0.1dev1',
     author='Hunter M. Allen',
     author_email='allenhm@gmail.com',
     license='MIT',
